@@ -48,4 +48,4 @@ pnpm tokens                          # regenera o tema depois de trocar packages
 - Vencimento em fim de semana ou feriado sai no próximo dia útil (calendário bancário brasileiro, feriados locais configuráveis).
 - Pagamento fora do cartão que se repete três meses seguidos vira sugestão de conta fixa.
 
-Decisões e o porquê: `docs/adr/`.
+Desenho do sistema (ingestão Pluggy, API, Finn, operação): `docs/design/sistema.md`. Decisões e o porquê: `docs/adr/`.
